@@ -17,10 +17,11 @@ toppings= "Pepperoni"
 
 def add_element_to_start_of_array(array, element)
   array.unshift= ("Steph")
-
 end
+
 basketball= ["ball", "hoops", "score", "timeout"]
 items= "net"
+
 def remove_element_from_end_of_array(array)
   array.pop
 end
