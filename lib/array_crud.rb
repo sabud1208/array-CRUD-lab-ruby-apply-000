@@ -11,9 +11,8 @@ type= "pie"
 
 def add_element_to_end_of_array(array, element)
    puts array << element
-
 end
-
+pizza= [deep, thin, regular, no sauce]
 def add_element_to_start_of_array(array, element)
   puts four.unshift "Ball"
 end
