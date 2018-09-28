@@ -9,7 +9,7 @@ end
 four= ["I", "Love", "Pepperoni", "Pizza"]
 type= "pie"
 
-def add_element_to_end_of_array(array <<, element)
+def add_element_to_end_of_array(array << "element")
    puts four.push "element"
 
 end
