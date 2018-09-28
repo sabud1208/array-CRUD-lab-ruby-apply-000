@@ -16,8 +16,8 @@ pizza= ["deep", "thin", "regular", "no sauce"]
 toppings= "Pepperoni"
 
 def add_element_to_start_of_array(array, element)
-  array.unshift
-  array.inspect
+  array.unshift= ("Steph")
+
 end
 basketball= ["ball", "hoops", "score", "timeout"]
 items= "net"
