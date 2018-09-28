@@ -17,6 +17,7 @@ toppings= "Pepperoni"
 
 def add_element_to_start_of_array(array, element)
   puts array.unshift ("Ball")
+  puts array.inspect
 end
 
 def remove_element_from_end_of_array(array)
