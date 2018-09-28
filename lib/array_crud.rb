@@ -16,8 +16,10 @@ pizza= ["deep", "thin", "regular", "no sauce"]
 toppings= "Pepperoni"
 
 Beyonce= ["Pretty, singer, dancer, mother"]
+jayz= "wife"
 def add_element_to_start_of_array(array, element)
-  array 
+  array.unshift << element
+
 end
 
 basketball= ["ball", "hoops", "score", "timeout"]
