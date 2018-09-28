@@ -30,7 +30,7 @@ def remove_element_from_start_of_array(array)
 end
 
 def retrieve_element_from_index(array, index_number)
-  puts array[3]
+  array[3]
 end
 
 def retrieve_first_element_from_array(array)
@@ -47,3 +47,4 @@ puts remove_element_from_start_of_array(four)
 puts add_element_to_end_of_array(pizza, toppings)
 puts add_element_to_start_of_array(basketball, items)
 puts remove_element_from_start_of_array(pizza)
+puta
