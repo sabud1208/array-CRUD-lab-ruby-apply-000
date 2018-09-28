@@ -50,7 +50,7 @@ puts create_an_array
 puts remove_element_from_end_of_array(four)
 puts remove_element_from_start_of_array(four)
 puts add_element_to_end_of_array(pizza, toppings)
-puts add_element_to_start_of_array(Beyonce, jayz)
+puts add_element_to_start_of_array(Beyonce, toppings)
 puts remove_element_from_start_of_array(pizza)
 puts retrieve_first_element_from_array(four)
 puts retrieve_element_from_index(pizza, 0)
