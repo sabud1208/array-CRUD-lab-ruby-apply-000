@@ -38,7 +38,7 @@ def retrieve_first_element_from_array(array)
 end
 
 def retrieve_last_element_from_array(array)
-  four.pop
+  array.pop
 end
 
 puts create_an_array
@@ -47,4 +47,4 @@ puts remove_element_from_start_of_array(four)
 puts add_element_to_end_of_array(pizza, toppings)
 puts add_element_to_start_of_array(basketball, items)
 puts remove_element_from_start_of_array(pizza)
-puts retrieve_element_from_index(four, 1 )
+puts retrieve_first_element_from_array(pizza)
