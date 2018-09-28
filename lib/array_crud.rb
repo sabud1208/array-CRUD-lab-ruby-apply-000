@@ -10,7 +10,7 @@ four= ["I", "Love", "Pepperoni", "Pizza"]
 type= "pie"
 
 def add_element_to_end_of_array(array, element)
-   array << element
+   array << element.chomp
 end
 pizza= ["deep", "thin", "regular", "no sauce"]
 toppings= "Pepperoni"
