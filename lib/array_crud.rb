@@ -44,3 +44,4 @@ puts create_an_array
 puts remove_element_from_end_of_array(four)
 puts remove_element_from_start_of_array(four)
 puts add_element_to_end_of_array(pizza, toppings)
+puts add_element_to_start_of_array(pizza, toppings)
