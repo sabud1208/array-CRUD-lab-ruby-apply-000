@@ -16,7 +16,7 @@ pizza= ["deep", "thin", "regular", "no sauce"]
 toppings= "Pepperoni"
 
 def add_element_to_start_of_array(array, element)
-  array.unshift ("element")
+  array.unshift element
   array.inspect
 end
 basketball= ["ball", "hoops", "score", "timeout"]
@@ -27,6 +27,7 @@ end
 
 def remove_element_from_start_of_array(array)
   puts array.shift
+  
 end
 
 def retrieve_element_from_index(array, index_number)
