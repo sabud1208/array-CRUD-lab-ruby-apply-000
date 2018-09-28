@@ -16,7 +16,8 @@ pizza= ["deep", "thin", "regular", "no sauce"]
 toppings= "Pepperoni"
 
 def add_element_to_start_of_array(array, element)
-  array.unshift ("Ball")
+ puts array
+  puts array.unshift ("Ball")
   puts array.inspect
 end
 
