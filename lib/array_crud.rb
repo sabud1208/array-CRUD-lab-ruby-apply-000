@@ -17,7 +17,7 @@ toppings= "Pepperoni"
 
 
 def add_element_to_start_of_array(array, element)
-  array.unshift << element
+  array << element.unshift
   array.inspect
 end
 
