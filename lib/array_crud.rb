@@ -22,7 +22,7 @@ end
 basketball= ["ball", "hoops", "score", "timeout"]
 items= "net"
 def remove_element_from_end_of_array(array)
-  puts "#{array.pop}"
+  array.pop
 end
 
 def remove_element_from_start_of_array(array)
